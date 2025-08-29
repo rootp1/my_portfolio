@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "titleLines": ["rootp1 - Arnav VD", "project Name"],
+    "links": [
+  { "label": "X", "href": "https://x.com/arnavvd" },
+  { "label": "LinkedIn", "href": "https://www.linkedin.com/in/arnav-deshpande-948890235/" },
+  { "label": "GitHub", "href": "https://github.com/rootp1" }
+    ]
+  },
+  "projects": [
+    { "id": "project-1", "title": "m4ze_m4r4th0n", "image": "/projects/project-1.png", "href": "https://github.com/rootp1/m4ze_m4r4th0n" },
+    { "id": "project-2", "title": "goEth", "image": "/projects/project-2.png", "href": "https://github.com/rootp1/goEth" },
+    { "id": "project-3", "title": "GreenGain", "image": "/projects/project-3.png", "href": "https://github.com/rootp1/GreenGain" },
+    { "id": "project-5", "title": "synk3r", "image": "/projects/project-5.png", "href": "https://github.com/rootp1/synk3r" },
+    { "id": "project-6", "title": "f1nnesse", "image": "/projects/project-6.png", "href": "https://github.com/rootp1/f1nnesse" },
+    { "id": "project-7", "title": "Emotion Detector From Sound", "image": "/projects/project-7.png", "href": "https://github.com/rootp1/emotion_detector_from_sound" },
+    { "id": "project-8", "title": "floattype", "image": "/projects/project-8.png", "href": "https://github.com/rootp1/FloatType" }
+  ]
+}

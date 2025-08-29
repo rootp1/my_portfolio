@@ -17,6 +17,7 @@
   max-width: 1400px;
   margin: 0 auto 2rem;
   /* Align with gallery side padding */
+  padding-top: clamp(0.5rem, 2vw, 1.5rem);
   padding-left: clamp(3rem, 12vw, 9rem);
   padding-right: clamp(3rem, 12vw, 9rem);
 }
